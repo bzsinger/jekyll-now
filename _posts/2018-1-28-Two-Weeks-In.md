@@ -16,7 +16,7 @@ I have several questions about project minutiae and I'm currently blocked on all
 ## What will you do next week?
 Next week I plan to complete the Collatz project early and focus on catching up in my recently-added Security class. I'd also like to create a how-to guide for creating a Jekyll blog for this class. I've enjoyed having this website, and I want to make it easier for other students – in this class and in future classes – to get started quickly.
 
-Finally, I think it would be beneficial to read more blog posts than just the one I'm required to respond to. A classmate's response to another student's blog post caught my eye this week and I discovered a [wonderful quote](https://quoteinvestigator.com/2013/04/03/eat-frog/):
+Finally, I think it would be beneficial to read more blog posts than just the one I'm required to respond to. A classmate's response to [another student's blog post](https://huangyvonneeswe.wordpress.com/2018/01/21/week-1/) (see "What's in your way?") caught my eye this week and I discovered a [wonderful quote](https://quoteinvestigator.com/2013/04/03/eat-frog/):
 > If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first.
 
 My final goal for next week is to integrate that idea into my daily routine.
@@ -35,6 +35,6 @@ My tip-of-the-week is to write good READMEs. Sure, there aren't many (any?) comp
 People judge books by their covers. Markdown exists to help you beautify your book cover, but provide constraints to prevent you from going overboard. One of my favorite developers, [Sindre](https://sindresorhus.com/) [Sorhus](https://github.com/sindresorhus), creator the the Github [awesome list](https://github.com/sindresorhus/awesome) format and a masterful README creator, puts it [this way](https://github.com/sindresorhus/ama/issues/140):
 > Open source projects are not just about code. Presentation, documentation, support, and kindness are important too.
 
-For an example of a great README, check out his [ava](https://github.com/avajs/ava) project. Your READMEs don't need to be that crazy, but try add a couple titles, gifs, and instructions. It goes a long way.
+For an example of a great README, check out his [ava](https://github.com/avajs/ava) project. Your READMEs don't need to be that crazy, but try add a couple of titles, gifs, and instructions. It goes a long way.
 
 (And [here's](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) an invaluable Markdown resource.)

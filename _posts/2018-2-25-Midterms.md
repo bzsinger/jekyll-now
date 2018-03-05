@@ -18,4 +18,4 @@ This week I plan to go through and type up my in-class SWE notes, redo the Hacke
 I'm still enjoying the class. I got called on this week to work through an exercise, and though I'm fine with being called on, it was hard to talk and take notes. I caught up quickly afterward, though.
 
 ## What's my pick-of-the-week or tip-of-the-week?
-My tip-of-the-week is to write down everything you have to do. Take a piece of paper and list everything you need to get done. The list might be daunting, but nothing is scarier than your imagination. I find that having everything written out helps me plan better and reduces anxiety. Even if you aren't someone who likes creating a strict schedule for yourself, try it out!
+My tip-of-the-week is to write down everything you have to do. Take a piece of paper and list everything you need to get done. The list might be daunting, but nothing is scarier than your imagination. I find that having everything written out helps me plan better and reduces anxiety. Even if you aren't someone who likes creating a strict schedule for yourself, try it out!µ

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Midterms
+title: Spring Break
 ---
 
 Last week we continued work on IDB2 and began preparing for working individually over the break. Because most of my teammates had midterm exams last week, we were not able to find much time to work together on the project. However, we did create plans for working on our own and corresponding during spring break.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDB3
+title: Home Stretch
 ---
 
 This week, my plate, to put it lightly, was full. On top of IDB work for SWE, a side job began to pick up, I had an essay due, and to top it off, it was Passover.
